@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #d6eaf8;
+  background: linear-gradient(135deg, #aed6f1, #f9cba7);
   max-width: 700px;
   margin: 40px auto;
   padding: 0 20px;
